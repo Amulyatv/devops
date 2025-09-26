@@ -3,4 +3,9 @@ cse1
 mech
 ece
 ise
+
+
+
+
 aiml
+
